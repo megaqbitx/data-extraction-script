@@ -1,0 +1,67 @@
+Page 2 of 12
+Page 2 - Position (x: 72.00, y: 131.76): Also, if you have not yet visited with your primary care provider (PCP) this year, please 
+Page 2 - Position (x: 72.00, y: 147.60): call them today to make an appointment. If you are having trouble getting an 
+Page 2 - Position (x: 72.00, y: 163.44): appointment, we can help. Just give us a call. 
+Page 2 - Position (x: 72.00, y: 194.88): If you or someone you know has thoughts of suicide or is experiencing a mental health 
+Page 2 - Position (x: 72.00, y: 210.72): or substance use crisis, dial 988 for help. There is HOPE. For private no cost support 
+Page 2 - Position (x: 72.00, y: 226.56): 24/7, just call or text 988.
+Page 2 - Position (x: 72.00, y: 258.24): As always, we wish you good health!
+Page 2 - Position (x: 72.00, y: 289.68): Sincerely,
+Page 2 - Position (x: 72.00, y: 321.36): Your Care Management Team
+Page 2 - Position (x: 72.00, y: 337.20): WellCare Health Plans
+Page 2 - Position (x: 63.12, y: 738.48): Y0020_WCM_108517E_C Internal Approved 07292022
+Page 2 - Position (x: 63.12, y: 752.16): ©WellCare 2022
+Page 2 - Position (x: 438.72, y: 752.16): NA2WCMLTR10012E_0000
+
+Page 3 of 12
+Page 3 - Position (x: 88.72, y: 101.33): Created:
+Page 3 - Position (x: 178.95, y: 101.43): Last
+Page 3 - Position (x: 178.95, y: 108.91): Revision:
+Page 3 - Position (x: 294.57, y: 101.33): Not Signed:
+Page 3 - Position (x: 88.72, y: 116.28): September 5, 2024 10:42
+Page 3 - Position (x: 88.72, y: 123.75): AM
+Page 3 - Position (x: 294.57, y: 116.28): Sosa, Rosairene (September 5, 2024 10:42
+Page 3 - Position (x: 294.57, y: 123.75): AM)
+Page 3 - Position (x: 88.72, y: 138.49): Name:
+Page 3 - Position (x: 178.95, y: 138.49): Date of Birth:
+Page 3 - Position (x: 224.98, y: 138.49): Medicare Number:
+Page 3 - Position (x: 88.72, y: 145.97): Sosa, Rosairene
+Page 3 - Position (x: 178.95, y: 145.97): 06/18/1949
+Page 3 - Position (x: 224.98, y: 145.97): 7XX5T73TK74
+Page 3 - Position (x: 123.06, y: 161.02): Priority
+Page 3 - Position (x: 194.85, y: 161.02): Need
+Page 3 - Position (x: 248.04, y: 161.02): Problem
+Page 3 - Position (x: 344.38, y: 161.02): Problem Status
+Page 3 - Position (x: 444.07, y: 161.02): Start Date
+Page 3 - Position (x: 486.94, y: 161.02): End Date
+Page 3 - Position (x: 524.95, y: 161.12): Referral
+Page 3 - Position (x: 526.95, y: 168.60): Source
+Page 3 - Position (x: 178.95, y: 175.86): Annual
+Page 3 - Position (x: 178.95, y: 183.34): Wellness
+Page 3 - Position (x: 178.95, y: 190.81): Check-up
+Page 3 - Position (x: 224.98, y: 175.86): Risk for decline in
+Page 3 - Position (x: 224.98, y: 183.34): health related to
+Page 3 - Position (x: 224.98, y: 190.81): Annual Wellness
+Page 3 - Position (x: 224.98, y: 198.29): Check-up
+Page 3 - Position (x: 434.91, y: 175.76): 09/05/2024
+Page 3 - Position (x: 120.11, y: 213.02): Care Goal
+Page 3 - Position (x: 188.11, y: 213.02): Goal Type
+Page 3 - Position (x: 248.25, y: 213.02): Barriers
+Page 3 - Position (x: 352.06, y: 213.13): Activity / 
+Page 3 - Position (x: 347.85, y: 220.60): Intervention
+Page 3 - Position (x: 441.97, y: 213.02): Target Date
+Page 3 - Position (x: 487.68, y: 213.02): Progress
+Page 3 - Position (x: 528.00, y: 213.02): Status
+Page 3 - Position (x: 88.72, y: 227.87): Member will see
+Page 3 - Position (x: 88.72, y: 235.34): PCP for Annual
+Page 3 - Position (x: 88.72, y: 242.84): Wellness
+Page 3 - Position (x: 88.72, y: 250.32): Check-up by
+Page 3 - Position (x: 88.72, y: 257.79): 09/05/2025.
+Page 3 - Position (x: 224.98, y: 227.76): Unable To Reach
+Page 3 - Position (x: 294.57, y: 227.87): Member will schedule
+Page 3 - Position (x: 294.57, y: 235.34): and complete Annual
+Page 3 - Position (x: 294.57, y: 242.84): Wellness Check-up with
+Page 3 - Position (x: 294.57, y: 250.32): PCP by 09/05/2025.
+Page 3 - Position (x: 434.91, y: 227.76): 9/5/2025
+Page 3 - Position (x: 518.11, y: 227.76): Managed
+Page 3 - Position (x: 123.06, y: 272.53): Priority
